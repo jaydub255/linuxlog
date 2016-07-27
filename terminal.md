@@ -4,6 +4,5 @@
 (heavily relies on my choice of zsh as a shell since this package is the 
 determining factor for grep)
 
-		# cat /path/to/packagelist | grep zsh | xargs sudo 
-pacman -S
+		# cat /path/to/packagelist | grep zsh | xargs sudo pacman -S
 
