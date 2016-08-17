@@ -8,7 +8,6 @@
 - library stuff like digikam/shotwell currently unneccessary since they don't speed up the initial selection process
 - *hugin* **still testing**
 - *luminancehdr* **still testing**
-- *enfuse* **planning to install**
 
 ### Backup solution
 - tbd
